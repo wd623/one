@@ -1,0 +1,1002 @@
+src/MyTetris/Cell.java:1:	Package name contains upper case characters
+src/MyTetris/Cell.java:1:	Package name contains upper case characters
+src/MyTetris/Cell.java:5:	Avoid short class names like Cell
+src/MyTetris/Cell.java:5:	Avoid short class names like Cell
+src/MyTetris/Cell.java:5:	Header comments are required
+src/MyTetris/Cell.java:5:	Header comments are required
+src/MyTetris/Cell.java:7:	Field comments are required
+src/MyTetris/Cell.java:7:	Field comments are required
+src/MyTetris/Cell.java:8:	Field comments are required
+src/MyTetris/Cell.java:8:	Field comments are required
+src/MyTetris/Cell.java:9:	Field comments are required
+src/MyTetris/Cell.java:9:	Field comments are required
+src/MyTetris/Cell.java:11:	Document empty constructor
+src/MyTetris/Cell.java:11:	Document empty constructor
+src/MyTetris/Cell.java:11:	Public method and constructor comments are required
+src/MyTetris/Cell.java:11:	Public method and constructor comments are required
+src/MyTetris/Cell.java:13:	Parameter 'col' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Parameter 'col' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Parameter 'image' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Parameter 'image' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Cell.java:13:	Public method and constructor comments are required
+src/MyTetris/Cell.java:13:	Public method and constructor comments are required
+src/MyTetris/Cell.java:25:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Cell.java:25:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Cell.java:35:	Parameter 'col' is not assigned and could be declared final
+src/MyTetris/Cell.java:35:	Parameter 'col' is not assigned and could be declared final
+src/MyTetris/Cell.java:45:	Parameter 'image' is not assigned and could be declared final
+src/MyTetris/Cell.java:45:	Parameter 'image' is not assigned and could be declared final
+src/MyTetris/Cell.java:50:	Public method and constructor comments are required
+src/MyTetris/Cell.java:50:	Public method and constructor comments are required
+src/MyTetris/Cell.java:55:	Public method and constructor comments are required
+src/MyTetris/Cell.java:55:	Public method and constructor comments are required
+src/MyTetris/Cell.java:60:	Public method and constructor comments are required
+src/MyTetris/Cell.java:60:	Public method and constructor comments are required
+src/MyTetris/Cell.java:65:	Public method and constructor comments are required
+src/MyTetris/Cell.java:65:	Public method and constructor comments are required
+src/MyTetris/Cell.java:65:	The method 'toString()' is missing an @Override annotation.
+src/MyTetris/Cell.java:65:	The method 'toString()' is missing an @Override annotation.
+src/MyTetris/CellTest.java:1:	Package name contains upper case characters
+src/MyTetris/CellTest.java:1:	Package name contains upper case characters
+src/MyTetris/CellTest.java:10:	Each class should declare at least one constructor
+src/MyTetris/CellTest.java:10:	Each class should declare at least one constructor
+src/MyTetris/CellTest.java:10:	Header comments are required
+src/MyTetris/CellTest.java:10:	Header comments are required
+src/MyTetris/CellTest.java:12:	Field comments are required
+src/MyTetris/CellTest.java:12:	Field comments are required
+src/MyTetris/CellTest.java:15:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:15:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/CellTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/CellTest.java:17:	Document empty method body
+src/MyTetris/CellTest.java:17:	Document empty method body
+src/MyTetris/CellTest.java:20:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:20:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:21:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/CellTest.java:21:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/CellTest.java:22:	Document empty method body
+src/MyTetris/CellTest.java:22:	Document empty method body
+src/MyTetris/CellTest.java:25:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:25:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:33:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:33:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:35:	Document empty method body
+src/MyTetris/CellTest.java:35:	Document empty method body
+src/MyTetris/CellTest.java:38:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:38:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:45:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:45:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:52:	Public method and constructor comments are required
+src/MyTetris/CellTest.java:52:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:1:	Package name contains upper case characters
+src/MyTetris/Tetris.java:1:	Package name contains upper case characters
+src/MyTetris/Tetris.java:16:	Classes implementing Serializable should set a serialVersionUID
+src/MyTetris/Tetris.java:16:	Classes implementing Serializable should set a serialVersionUID
+src/MyTetris/Tetris.java:16:	Each class should declare at least one constructor
+src/MyTetris/Tetris.java:16:	Each class should declare at least one constructor
+src/MyTetris/Tetris.java:16:	Header comments are required
+src/MyTetris/Tetris.java:16:	Header comments are required
+src/MyTetris/Tetris.java:16:	Possible God Class (WMC=63, ATFD=37, TCC=26.781%)
+src/MyTetris/Tetris.java:16:	Possible God Class (WMC=63, ATFD=37, TCC=26.781%)
+src/MyTetris/Tetris.java:16:	The class 'Tetris' has a Standard Cyclomatic Complexity of 3 (Highest = 14).
+src/MyTetris/Tetris.java:16:	The class 'Tetris' has a Standard Cyclomatic Complexity of 3 (Highest = 14).
+src/MyTetris/Tetris.java:16:	Too many fields
+src/MyTetris/Tetris.java:16:	Too many fields
+src/MyTetris/Tetris.java:18:	This class has too many methods, consider refactoring it.
+src/MyTetris/Tetris.java:18:	This class has too many methods, consider refactoring it.
+src/MyTetris/Tetris.java:19:	Field comments are required
+src/MyTetris/Tetris.java:19:	Field comments are required
+src/MyTetris/Tetris.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:20:	Field comments are required
+src/MyTetris/Tetris.java:20:	Field comments are required
+src/MyTetris/Tetris.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:21:	Field comments are required
+src/MyTetris/Tetris.java:21:	Field comments are required
+src/MyTetris/Tetris.java:22:	Field comments are required
+src/MyTetris/Tetris.java:22:	Field comments are required
+src/MyTetris/Tetris.java:23:	Field comments are required
+src/MyTetris/Tetris.java:23:	Field comments are required
+src/MyTetris/Tetris.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:24:	Field comments are required
+src/MyTetris/Tetris.java:24:	Field comments are required
+src/MyTetris/Tetris.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:25:	Field comments are required
+src/MyTetris/Tetris.java:25:	Field comments are required
+src/MyTetris/Tetris.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:26:	Field comments are required
+src/MyTetris/Tetris.java:26:	Field comments are required
+src/MyTetris/Tetris.java:27:	Field comments are required
+src/MyTetris/Tetris.java:27:	Field comments are required
+src/MyTetris/Tetris.java:28:	Avoid variables with short names like I
+src/MyTetris/Tetris.java:28:	Avoid variables with short names like I
+src/MyTetris/Tetris.java:28:	Field comments are required
+src/MyTetris/Tetris.java:28:	Field comments are required
+src/MyTetris/Tetris.java:28:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:28:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:28:	The static field name 'I' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:28:	The static field name 'I' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:28:	Variables should start with a lowercase character, 'I' starts with uppercase character.
+src/MyTetris/Tetris.java:28:	Variables should start with a lowercase character, 'I' starts with uppercase character.
+src/MyTetris/Tetris.java:29:	Avoid variables with short names like J
+src/MyTetris/Tetris.java:29:	Avoid variables with short names like J
+src/MyTetris/Tetris.java:29:	Field comments are required
+src/MyTetris/Tetris.java:29:	Field comments are required
+src/MyTetris/Tetris.java:29:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:29:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:29:	The static field name 'J' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:29:	The static field name 'J' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:29:	Variables should start with a lowercase character, 'J' starts with uppercase character.
+src/MyTetris/Tetris.java:29:	Variables should start with a lowercase character, 'J' starts with uppercase character.
+src/MyTetris/Tetris.java:30:	Avoid variables with short names like L
+src/MyTetris/Tetris.java:30:	Avoid variables with short names like L
+src/MyTetris/Tetris.java:30:	Field comments are required
+src/MyTetris/Tetris.java:30:	Field comments are required
+src/MyTetris/Tetris.java:30:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:30:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:30:	The static field name 'L' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:30:	The static field name 'L' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:30:	Variables should start with a lowercase character, 'L' starts with uppercase character.
+src/MyTetris/Tetris.java:30:	Variables should start with a lowercase character, 'L' starts with uppercase character.
+src/MyTetris/Tetris.java:31:	Avoid variables with short names like S
+src/MyTetris/Tetris.java:31:	Avoid variables with short names like S
+src/MyTetris/Tetris.java:31:	Field comments are required
+src/MyTetris/Tetris.java:31:	Field comments are required
+src/MyTetris/Tetris.java:31:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:31:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:31:	The static field name 'S' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:31:	The static field name 'S' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:31:	Variables should start with a lowercase character, 'S' starts with uppercase character.
+src/MyTetris/Tetris.java:31:	Variables should start with a lowercase character, 'S' starts with uppercase character.
+src/MyTetris/Tetris.java:32:	Avoid variables with short names like Z
+src/MyTetris/Tetris.java:32:	Avoid variables with short names like Z
+src/MyTetris/Tetris.java:32:	Field comments are required
+src/MyTetris/Tetris.java:32:	Field comments are required
+src/MyTetris/Tetris.java:32:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:32:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:32:	The static field name 'Z' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:32:	The static field name 'Z' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:32:	Variables should start with a lowercase character, 'Z' starts with uppercase character.
+src/MyTetris/Tetris.java:32:	Variables should start with a lowercase character, 'Z' starts with uppercase character.
+src/MyTetris/Tetris.java:33:	Avoid variables with short names like O
+src/MyTetris/Tetris.java:33:	Avoid variables with short names like O
+src/MyTetris/Tetris.java:33:	Field comments are required
+src/MyTetris/Tetris.java:33:	Field comments are required
+src/MyTetris/Tetris.java:33:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:33:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:33:	The static field name 'O' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:33:	The static field name 'O' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:33:	Variables should start with a lowercase character, 'O' starts with uppercase character.
+src/MyTetris/Tetris.java:33:	Variables should start with a lowercase character, 'O' starts with uppercase character.
+src/MyTetris/Tetris.java:34:	Avoid variables with short names like T
+src/MyTetris/Tetris.java:34:	Avoid variables with short names like T
+src/MyTetris/Tetris.java:34:	Field comments are required
+src/MyTetris/Tetris.java:34:	Field comments are required
+src/MyTetris/Tetris.java:34:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:34:	The field name indicates a constant but its modifiers do not
+src/MyTetris/Tetris.java:34:	The static field name 'T' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:34:	The static field name 'T' doesn't match '[a-z][a-zA-Z0-9]*'
+src/MyTetris/Tetris.java:34:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/MyTetris/Tetris.java:34:	Variables should start with a lowercase character, 'T' starts with uppercase character.
+src/MyTetris/Tetris.java:35:	Field comments are required
+src/MyTetris/Tetris.java:35:	Field comments are required
+src/MyTetris/Tetris.java:35:	Number 6715289 should separate every third digit with an underscore
+src/MyTetris/Tetris.java:35:	Number 6715289 should separate every third digit with an underscore
+src/MyTetris/Tetris.java:36:	Field comments are required
+src/MyTetris/Tetris.java:36:	Field comments are required
+src/MyTetris/Tetris.java:52:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/MyTetris/Tetris.java:52:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/MyTetris/Tetris.java:54:	Avoid printStackTrace(); use a logger call instead.
+src/MyTetris/Tetris.java:54:	Avoid printStackTrace(); use a logger call instead.
+src/MyTetris/Tetris.java:58:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:58:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:58:	The method 'action' has a Standard Cyclomatic Complexity of 14.
+src/MyTetris/Tetris.java:58:	The method 'action' has a Standard Cyclomatic Complexity of 14.
+src/MyTetris/Tetris.java:62:	Avoid variables with short names like l
+src/MyTetris/Tetris.java:62:	Avoid variables with short names like l
+src/MyTetris/Tetris.java:62:	Found 'DU'-anomaly for variable 'l' (lines '62'-'106').
+src/MyTetris/Tetris.java:62:	Found 'DU'-anomaly for variable 'l' (lines '62'-'106').
+src/MyTetris/Tetris.java:62:	Found 'DU'-anomaly for variable 'l' (lines '62'-'106').
+src/MyTetris/Tetris.java:62:	Found 'DU'-anomaly for variable 'l' (lines '62'-'106').
+src/MyTetris/Tetris.java:62:	Local variable 'l' could be declared final
+src/MyTetris/Tetris.java:62:	Local variable 'l' could be declared final
+src/MyTetris/Tetris.java:64:	Avoid variables with short names like e
+src/MyTetris/Tetris.java:64:	Avoid variables with short names like e
+src/MyTetris/Tetris.java:64:	Parameter 'e' is not assigned and could be declared final
+src/MyTetris/Tetris.java:64:	Parameter 'e' is not assigned and could be declared final
+src/MyTetris/Tetris.java:64:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:64:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:64:	The method 'keyPressed' has a Standard Cyclomatic Complexity of 13.
+src/MyTetris/Tetris.java:64:	The method 'keyPressed' has a Standard Cyclomatic Complexity of 13.
+src/MyTetris/Tetris.java:64:	The method 'keyPressed(KeyEvent)' is missing an @Override annotation.
+src/MyTetris/Tetris.java:64:	The method 'keyPressed(KeyEvent)' is missing an @Override annotation.
+src/MyTetris/Tetris.java:67:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:67:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:68:	System.exit() should not be used in J2EE/JEE apps
+src/MyTetris/Tetris.java:68:	System.exit() should not be used in J2EE/JEE apps
+src/MyTetris/Tetris.java:70:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/MyTetris/Tetris.java:70:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/MyTetris/Tetris.java:72:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:72:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:77:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/MyTetris/Tetris.java:77:	Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/MyTetris/Tetris.java:79:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:79:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:84:	A switch statement does not contain a break
+src/MyTetris/Tetris.java:84:	A switch statement does not contain a break
+src/MyTetris/Tetris.java:84:	Switch statements should have a default label
+src/MyTetris/Tetris.java:84:	Switch statements should have a default label
+src/MyTetris/Tetris.java:108:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:108:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:108:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:108:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:108:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:108:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:108:	The method 'paint(Graphics)' is missing an @Override annotation.
+src/MyTetris/Tetris.java:108:	The method 'paint(Graphics)' is missing an @Override annotation.
+src/MyTetris/Tetris.java:118:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:118:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:118:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:118:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:120:	Avoid variables with short names like f
+src/MyTetris/Tetris.java:120:	Avoid variables with short names like f
+src/MyTetris/Tetris.java:120:	Local variable 'f' could be declared final
+src/MyTetris/Tetris.java:120:	Local variable 'f' could be declared final
+src/MyTetris/Tetris.java:121:	Local variable 'font' could be declared final
+src/MyTetris/Tetris.java:121:	Local variable 'font' could be declared final
+src/MyTetris/Tetris.java:122:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:122:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:123:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:123:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:123:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:123:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:124:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:124:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:125:	Number 6715289 should separate every third digit with an underscore
+src/MyTetris/Tetris.java:125:	Number 6715289 should separate every third digit with an underscore
+src/MyTetris/Tetris.java:133:	Found 'DD'-anomaly for variable 'str' (lines '133'-'135').
+src/MyTetris/Tetris.java:133:	Found 'DD'-anomaly for variable 'str' (lines '133'-'135').
+src/MyTetris/Tetris.java:133:	Found 'DD'-anomaly for variable 'str' (lines '133'-'138').
+src/MyTetris/Tetris.java:133:	Found 'DD'-anomaly for variable 'str' (lines '133'-'138').
+src/MyTetris/Tetris.java:135:	Found 'DD'-anomaly for variable 'str' (lines '135'-'138').
+src/MyTetris/Tetris.java:135:	Found 'DD'-anomaly for variable 'str' (lines '135'-'138').
+src/MyTetris/Tetris.java:143:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:143:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:143:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:143:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:145:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:145:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:146:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:146:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:148:	Avoid variables with short names like c
+src/MyTetris/Tetris.java:148:	Avoid variables with short names like c
+src/MyTetris/Tetris.java:148:	Local variable 'c' could be declared final
+src/MyTetris/Tetris.java:148:	Local variable 'c' could be declared final
+src/MyTetris/Tetris.java:149:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:149:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:149:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:149:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:149:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:149:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:150:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:150:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:150:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:150:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:150:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:150:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:151:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:151:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:155:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:155:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:155:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:155:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:157:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:157:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:158:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:158:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:160:	Avoid variables with short names like c
+src/MyTetris/Tetris.java:160:	Avoid variables with short names like c
+src/MyTetris/Tetris.java:160:	Local variable 'c' could be declared final
+src/MyTetris/Tetris.java:160:	Local variable 'c' could be declared final
+src/MyTetris/Tetris.java:161:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:161:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:161:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:161:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:161:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:162:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:162:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:162:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:162:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:165:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:165:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:169:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:169:	Avoid variables with short names like g
+src/MyTetris/Tetris.java:169:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:169:	Parameter 'g' is not assigned and could be declared final
+src/MyTetris/Tetris.java:173:	Local variable 'line' could be declared final
+src/MyTetris/Tetris.java:173:	Local variable 'line' could be declared final
+src/MyTetris/Tetris.java:176:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:176:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:177:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:177:	Avoid variables with short names like x
+src/MyTetris/Tetris.java:177:	Found 'DD'-anomaly for variable 'x' (lines '177'-'177').
+src/MyTetris/Tetris.java:177:	Found 'DD'-anomaly for variable 'x' (lines '177'-'177').
+src/MyTetris/Tetris.java:177:	Found 'DU'-anomaly for variable 'x' (lines '177'-'184').
+src/MyTetris/Tetris.java:177:	Found 'DU'-anomaly for variable 'x' (lines '177'-'184').
+src/MyTetris/Tetris.java:177:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:177:	Local variable 'x' could be declared final
+src/MyTetris/Tetris.java:178:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:178:	Avoid variables with short names like y
+src/MyTetris/Tetris.java:178:	Found 'DD'-anomaly for variable 'y' (lines '178'-'178').
+src/MyTetris/Tetris.java:178:	Found 'DD'-anomaly for variable 'y' (lines '178'-'178').
+src/MyTetris/Tetris.java:178:	Found 'DU'-anomaly for variable 'y' (lines '178'-'184').
+src/MyTetris/Tetris.java:178:	Found 'DU'-anomaly for variable 'y' (lines '178'-'184').
+src/MyTetris/Tetris.java:178:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:178:	Local variable 'y' could be declared final
+src/MyTetris/Tetris.java:180:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:180:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:186:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:186:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:202:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:202:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:204:	Found 'DD'-anomaly for variable 'lines' (lines '204'-'209').
+src/MyTetris/Tetris.java:204:	Found 'DD'-anomaly for variable 'lines' (lines '204'-'209').
+src/MyTetris/Tetris.java:209:	Found 'DD'-anomaly for variable 'lines' (lines '209'-'209').
+src/MyTetris/Tetris.java:209:	Found 'DD'-anomaly for variable 'lines' (lines '209'-'209').
+src/MyTetris/Tetris.java:216:	Field comments are required
+src/MyTetris/Tetris.java:216:	Field comments are required
+src/MyTetris/Tetris.java:216:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:216:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:217:	Field comments are required
+src/MyTetris/Tetris.java:217:	Field comments are required
+src/MyTetris/Tetris.java:217:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:217:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:217:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:217:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:218:	Field comments are required
+src/MyTetris/Tetris.java:218:	Field comments are required
+src/MyTetris/Tetris.java:218:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:218:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:218:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:218:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:219:	Field comments are required
+src/MyTetris/Tetris.java:219:	Field comments are required
+src/MyTetris/Tetris.java:219:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:219:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetris.java:219:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:219:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetris.java:221:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Tetris.java:221:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Tetris.java:221:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:221:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:223:	Local variable 'line' could be declared final
+src/MyTetris/Tetris.java:223:	Local variable 'line' could be declared final
+src/MyTetris/Tetris.java:224:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:224:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:226:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:226:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:232:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Tetris.java:232:	Parameter 'row' is not assigned and could be declared final
+src/MyTetris/Tetris.java:232:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:232:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:235:	Useless parentheses.
+src/MyTetris/Tetris.java:235:	Useless parentheses.
+src/MyTetris/Tetris.java:237:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:237:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:237:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:237:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:240:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:240:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:242:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:242:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:243:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:243:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:245:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:245:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:246:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/MyTetris/Tetris.java:246:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+src/MyTetris/Tetris.java:246:	Avoid unused local variables such as 'col'.
+src/MyTetris/Tetris.java:246:	Avoid unused local variables such as 'col'.
+src/MyTetris/Tetris.java:246:	Found 'DD'-anomaly for variable 'col' (lines '246'-'246').
+src/MyTetris/Tetris.java:246:	Found 'DD'-anomaly for variable 'col' (lines '246'-'246').
+src/MyTetris/Tetris.java:246:	Found 'DD'-anomaly for variable 'col' (lines '246'-'254').
+src/MyTetris/Tetris.java:246:	Found 'DD'-anomaly for variable 'col' (lines '246'-'254').
+src/MyTetris/Tetris.java:246:	Found 'DU'-anomaly for variable 'col' (lines '246'-'260').
+src/MyTetris/Tetris.java:246:	Found 'DU'-anomaly for variable 'col' (lines '246'-'260').
+src/MyTetris/Tetris.java:246:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:246:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:246:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:246:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:246:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:246:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:246:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:246:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:247:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:247:	Avoid using Literals in Conditional Statements
+src/MyTetris/Tetris.java:248:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:248:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:251:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:251:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:253:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:253:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:254:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:254:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:254:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:254:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:254:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:254:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:254:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:254:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:255:	Useless parentheses.
+src/MyTetris/Tetris.java:255:	Useless parentheses.
+src/MyTetris/Tetris.java:256:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:256:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:262:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:262:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:264:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:264:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:265:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:265:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:267:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:267:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:268:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:268:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:268:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:268:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:269:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:269:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:269:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:269:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:274:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:274:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:277:	Useless parentheses.
+src/MyTetris/Tetris.java:277:	Useless parentheses.
+src/MyTetris/Tetris.java:277:	Useless parentheses.
+src/MyTetris/Tetris.java:277:	Useless parentheses.
+src/MyTetris/Tetris.java:282:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:282:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:285:	Useless parentheses.
+src/MyTetris/Tetris.java:285:	Useless parentheses.
+src/MyTetris/Tetris.java:285:	Useless parentheses.
+src/MyTetris/Tetris.java:285:	Useless parentheses.
+src/MyTetris/Tetris.java:292:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:292:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:293:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:293:	This for loop can be replaced by a foreach loop
+src/MyTetris/Tetris.java:295:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:295:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:296:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:296:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:296:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:296:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetris.java:297:	Useless parentheses.
+src/MyTetris/Tetris.java:297:	Useless parentheses.
+src/MyTetris/Tetris.java:297:	Useless parentheses.
+src/MyTetris/Tetris.java:297:	Useless parentheses.
+src/MyTetris/Tetris.java:298:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:298:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:304:	Found 'UR'-anomaly for variable 'cell' (lines '304'-'309').
+src/MyTetris/Tetris.java:304:	Found 'UR'-anomaly for variable 'cell' (lines '304'-'309').
+src/MyTetris/Tetris.java:306:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:306:	Local variable 'cells' could be declared final
+src/MyTetris/Tetris.java:307:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:307:	Local variable 'cell' could be declared final
+src/MyTetris/Tetris.java:309:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:309:	Local variable 'row' could be declared final
+src/MyTetris/Tetris.java:310:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:310:	Local variable 'col' could be declared final
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:311:	Useless parentheses.
+src/MyTetris/Tetris.java:312:	Useless parentheses.
+src/MyTetris/Tetris.java:312:	Useless parentheses.
+src/MyTetris/Tetris.java:313:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:313:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetris.java:319:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:319:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:322:	Useless parentheses.
+src/MyTetris/Tetris.java:322:	Useless parentheses.
+src/MyTetris/Tetris.java:322:	Useless parentheses.
+src/MyTetris/Tetris.java:322:	Useless parentheses.
+src/MyTetris/Tetris.java:328:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:328:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:331:	Useless parentheses.
+src/MyTetris/Tetris.java:331:	Useless parentheses.
+src/MyTetris/Tetris.java:331:	Useless parentheses.
+src/MyTetris/Tetris.java:331:	Useless parentheses.
+src/MyTetris/Tetris.java:336:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:336:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:348:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:348:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:357:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:357:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:357:	The method 'run()' is missing an @Override annotation.
+src/MyTetris/Tetris.java:357:	The method 'run()' is missing an @Override annotation.
+src/MyTetris/Tetris.java:368:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:368:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:368:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:368:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetris.java:372:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:372:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:379:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:379:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:384:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:384:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:384:	The method 'run()' is missing an @Override annotation.
+src/MyTetris/Tetris.java:384:	The method 'run()' is missing an @Override annotation.
+src/MyTetris/Tetris.java:394:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:394:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:404:	Parameter 'args' is not assigned and could be declared final
+src/MyTetris/Tetris.java:404:	Parameter 'args' is not assigned and could be declared final
+src/MyTetris/Tetris.java:404:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:404:	Public method and constructor comments are required
+src/MyTetris/Tetris.java:406:	Local variable 'frame' could be declared final
+src/MyTetris/Tetris.java:406:	Local variable 'frame' could be declared final
+src/MyTetris/Tetris.java:407:	Local variable 'tetris' could be declared final
+src/MyTetris/Tetris.java:407:	Local variable 'tetris' could be declared final
+src/MyTetris/Tetromino.java:1:	Package name contains upper case characters
+src/MyTetris/Tetromino.java:1:	Package name contains upper case characters
+src/MyTetris/Tetromino.java:7:	Each class should declare at least one constructor
+src/MyTetris/Tetromino.java:7:	Each class should declare at least one constructor
+src/MyTetris/Tetromino.java:7:	Header comments are required
+src/MyTetris/Tetromino.java:7:	Header comments are required
+src/MyTetris/Tetromino.java:9:	Field comments are required
+src/MyTetris/Tetromino.java:9:	Field comments are required
+src/MyTetris/Tetromino.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:10:	Field comments are required
+src/MyTetris/Tetromino.java:10:	Field comments are required
+src/MyTetris/Tetromino.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:12:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:12:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:14:	Avoid variables with short names like r
+src/MyTetris/Tetromino.java:14:	Avoid variables with short names like r
+src/MyTetris/Tetromino.java:14:	Local variable 'r' could be declared final
+src/MyTetris/Tetromino.java:14:	Local variable 'r' could be declared final
+src/MyTetris/Tetromino.java:15:	Local variable 'type' could be declared final
+src/MyTetris/Tetromino.java:15:	Local variable 'type' could be declared final
+src/MyTetris/Tetromino.java:16:	Switch statements should have a default label
+src/MyTetris/Tetromino.java:16:	Switch statements should have a default label
+src/MyTetris/Tetromino.java:19:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:19:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:21:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:21:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:23:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:23:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:25:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:25:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:27:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:27:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:29:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:29:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:31:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:31:	A method should have only one exit point, and that should be the last statement in the method
+src/MyTetris/Tetromino.java:38:	Returning 'cells' may expose an internal array.
+src/MyTetris/Tetromino.java:38:	Returning 'cells' may expose an internal array.
+src/MyTetris/Tetromino.java:41:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:41:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:48:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:48:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:55:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:55:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:62:	Field comments are required
+src/MyTetris/Tetromino.java:62:	Field comments are required
+src/MyTetris/Tetromino.java:62:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetromino.java:62:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/MyTetris/Tetromino.java:62:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:62:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:62:	Number 100000 should separate every third digit with an underscore
+src/MyTetris/Tetromino.java:62:	Number 100000 should separate every third digit with an underscore
+src/MyTetris/Tetromino.java:64:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:64:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:67:	Comment is too large: Too many lines
+src/MyTetris/Tetromino.java:67:	Comment is too large: Too many lines
+src/MyTetris/Tetromino.java:86:	Avoid variables with short names like s
+src/MyTetris/Tetromino.java:86:	Avoid variables with short names like s
+src/MyTetris/Tetromino.java:86:	Local variable 's' could be declared final
+src/MyTetris/Tetromino.java:86:	Local variable 's' could be declared final
+src/MyTetris/Tetromino.java:86:	Useless parentheses.
+src/MyTetris/Tetromino.java:86:	Useless parentheses.
+src/MyTetris/Tetromino.java:88:	Avoid variables with short names like o
+src/MyTetris/Tetromino.java:88:	Avoid variables with short names like o
+src/MyTetris/Tetromino.java:88:	Local variable 'o' could be declared final
+src/MyTetris/Tetromino.java:88:	Local variable 'o' could be declared final
+src/MyTetris/Tetromino.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:90:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:91:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:92:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:92:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:93:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:93:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:98:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:98:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:102:	Avoid variables with short names like s
+src/MyTetris/Tetromino.java:102:	Avoid variables with short names like s
+src/MyTetris/Tetromino.java:102:	Local variable 's' could be declared final
+src/MyTetris/Tetromino.java:102:	Local variable 's' could be declared final
+src/MyTetris/Tetromino.java:102:	Useless parentheses.
+src/MyTetris/Tetromino.java:102:	Useless parentheses.
+src/MyTetris/Tetromino.java:104:	Avoid variables with short names like o
+src/MyTetris/Tetromino.java:104:	Avoid variables with short names like o
+src/MyTetris/Tetromino.java:104:	Local variable 'o' could be declared final
+src/MyTetris/Tetromino.java:104:	Local variable 'o' could be declared final
+src/MyTetris/Tetromino.java:106:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:106:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:107:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:107:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:108:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:108:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:110:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:111:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:111:	Potential violation of Law of Demeter (object not created locally)
+src/MyTetris/Tetromino.java:114:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:114:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:114:	The method 'toString()' is missing an @Override annotation.
+src/MyTetris/Tetromino.java:114:	The method 'toString()' is missing an @Override annotation.
+src/MyTetris/Tetromino.java:116:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetromino.java:116:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/Tetromino.java:119:	Header comments are required
+src/MyTetris/Tetromino.java:119:	Header comments are required
+src/MyTetris/Tetromino.java:121:	Field comments are required
+src/MyTetris/Tetromino.java:121:	Field comments are required
+src/MyTetris/Tetromino.java:121:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:121:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:121:	To avoid mistakes add a comment at the beginning of the row0 field if you want a default access modifier
+src/MyTetris/Tetromino.java:121:	To avoid mistakes add a comment at the beginning of the row0 field if you want a default access modifier
+src/MyTetris/Tetromino.java:121:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:121:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:122:	Field comments are required
+src/MyTetris/Tetromino.java:122:	Field comments are required
+src/MyTetris/Tetromino.java:122:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:122:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:122:	To avoid mistakes add a comment at the beginning of the col0 field if you want a default access modifier
+src/MyTetris/Tetromino.java:122:	To avoid mistakes add a comment at the beginning of the col0 field if you want a default access modifier
+src/MyTetris/Tetromino.java:122:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:122:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:123:	Field comments are required
+src/MyTetris/Tetromino.java:123:	Field comments are required
+src/MyTetris/Tetromino.java:123:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:123:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:123:	To avoid mistakes add a comment at the beginning of the row1 field if you want a default access modifier
+src/MyTetris/Tetromino.java:123:	To avoid mistakes add a comment at the beginning of the row1 field if you want a default access modifier
+src/MyTetris/Tetromino.java:123:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:123:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:124:	Field comments are required
+src/MyTetris/Tetromino.java:124:	Field comments are required
+src/MyTetris/Tetromino.java:124:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:124:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:124:	To avoid mistakes add a comment at the beginning of the col1 field if you want a default access modifier
+src/MyTetris/Tetromino.java:124:	To avoid mistakes add a comment at the beginning of the col1 field if you want a default access modifier
+src/MyTetris/Tetromino.java:124:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:124:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:125:	Field comments are required
+src/MyTetris/Tetromino.java:125:	Field comments are required
+src/MyTetris/Tetromino.java:125:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:125:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:125:	To avoid mistakes add a comment at the beginning of the row2 field if you want a default access modifier
+src/MyTetris/Tetromino.java:125:	To avoid mistakes add a comment at the beginning of the row2 field if you want a default access modifier
+src/MyTetris/Tetromino.java:125:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:125:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:126:	Field comments are required
+src/MyTetris/Tetromino.java:126:	Field comments are required
+src/MyTetris/Tetromino.java:126:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:126:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:126:	To avoid mistakes add a comment at the beginning of the col2 field if you want a default access modifier
+src/MyTetris/Tetromino.java:126:	To avoid mistakes add a comment at the beginning of the col2 field if you want a default access modifier
+src/MyTetris/Tetromino.java:126:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:126:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:127:	Field comments are required
+src/MyTetris/Tetromino.java:127:	Field comments are required
+src/MyTetris/Tetromino.java:127:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:127:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:127:	To avoid mistakes add a comment at the beginning of the row3 field if you want a default access modifier
+src/MyTetris/Tetromino.java:127:	To avoid mistakes add a comment at the beginning of the row3 field if you want a default access modifier
+src/MyTetris/Tetromino.java:127:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:127:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:128:	Field comments are required
+src/MyTetris/Tetromino.java:128:	Field comments are required
+src/MyTetris/Tetromino.java:128:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:128:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/MyTetris/Tetromino.java:128:	To avoid mistakes add a comment at the beginning of the col3 field if you want a default access modifier
+src/MyTetris/Tetromino.java:128:	To avoid mistakes add a comment at the beginning of the col3 field if you want a default access modifier
+src/MyTetris/Tetromino.java:128:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:128:	Use explicit scoping instead of the default package private level
+src/MyTetris/Tetromino.java:130:	Parameter 'col0' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col0' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col1' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col1' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col2' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col2' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col3' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'col3' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row0' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row0' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row1' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row1' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row2' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row2' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row3' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Parameter 'row3' is not assigned and could be declared final
+src/MyTetris/Tetromino.java:130:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:130:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:144:	Avoid short class names like T
+src/MyTetris/Tetromino.java:144:	Avoid short class names like T
+src/MyTetris/Tetromino.java:144:	Header comments are required
+src/MyTetris/Tetromino.java:144:	Header comments are required
+src/MyTetris/Tetromino.java:147:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:147:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:147:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:147:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:161:	Avoid short class names like I
+src/MyTetris/Tetromino.java:161:	Avoid short class names like I
+src/MyTetris/Tetromino.java:161:	Header comments are required
+src/MyTetris/Tetromino.java:161:	Header comments are required
+src/MyTetris/Tetromino.java:164:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:164:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:164:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:164:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:176:	Avoid short class names like L
+src/MyTetris/Tetromino.java:176:	Avoid short class names like L
+src/MyTetris/Tetromino.java:176:	Header comments are required
+src/MyTetris/Tetromino.java:176:	Header comments are required
+src/MyTetris/Tetromino.java:179:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:179:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:179:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:179:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:193:	Avoid short class names like J
+src/MyTetris/Tetromino.java:193:	Avoid short class names like J
+src/MyTetris/Tetromino.java:193:	Header comments are required
+src/MyTetris/Tetromino.java:193:	Header comments are required
+src/MyTetris/Tetromino.java:196:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:196:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:196:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:196:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:210:	Avoid short class names like S
+src/MyTetris/Tetromino.java:210:	Avoid short class names like S
+src/MyTetris/Tetromino.java:210:	Header comments are required
+src/MyTetris/Tetromino.java:210:	Header comments are required
+src/MyTetris/Tetromino.java:213:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:213:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:213:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:213:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:225:	Avoid short class names like Z
+src/MyTetris/Tetromino.java:225:	Avoid short class names like Z
+src/MyTetris/Tetromino.java:225:	Header comments are required
+src/MyTetris/Tetromino.java:225:	Header comments are required
+src/MyTetris/Tetromino.java:228:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:228:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:228:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:228:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:240:	Avoid short class names like O
+src/MyTetris/Tetromino.java:240:	Avoid short class names like O
+src/MyTetris/Tetromino.java:240:	Header comments are required
+src/MyTetris/Tetromino.java:240:	Header comments are required
+src/MyTetris/Tetromino.java:243:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:243:	It is a good practice to call super() in a constructor
+src/MyTetris/Tetromino.java:243:	Public method and constructor comments are required
+src/MyTetris/Tetromino.java:243:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:1:	Package name contains upper case characters
+src/MyTetris/TetrominoTest.java:1:	Package name contains upper case characters
+src/MyTetris/TetrominoTest.java:10:	Each class should declare at least one constructor
+src/MyTetris/TetrominoTest.java:10:	Each class should declare at least one constructor
+src/MyTetris/TetrominoTest.java:10:	Header comments are required
+src/MyTetris/TetrominoTest.java:10:	Header comments are required
+src/MyTetris/TetrominoTest.java:12:	Field comments are required
+src/MyTetris/TetrominoTest.java:12:	Field comments are required
+src/MyTetris/TetrominoTest.java:15:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:15:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/TetrominoTest.java:16:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/TetrominoTest.java:17:	Document empty method body
+src/MyTetris/TetrominoTest.java:17:	Document empty method body
+src/MyTetris/TetrominoTest.java:20:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:20:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:21:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/TetrominoTest.java:21:	A method/constructor should not explicitly throw java.lang.Exception
+src/MyTetris/TetrominoTest.java:22:	Document empty method body
+src/MyTetris/TetrominoTest.java:22:	Document empty method body
+src/MyTetris/TetrominoTest.java:25:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:25:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:35:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:35:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:37:	Document empty method body
+src/MyTetris/TetrominoTest.java:37:	Document empty method body
+src/MyTetris/TetrominoTest.java:40:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:40:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:43:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:50:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:50:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:53:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:55:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:56:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:60:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:60:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:64:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:66:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:70:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:70:	Public method and constructor comments are required
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:75:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:77:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/MyTetris/TetrominoTest.java:81:	Potential violation of Law of Demeter (method chain calls)
